@@ -47,3 +47,6 @@ El bucket que hemos creado en el apartado de s3 de aws llamado 'bookstorefalvare
 Primero ingresamos a HUE, creamos una cuenta que tiene de username: hadoop. Una vez vamos a los archivos y al directorio de archivos, creamos la siguiente ruta /user/hadoop/datasets/onu y ahí es que ingresamos los archivos con la informacion  y queda así
 
 ![](img/hues.png)
+
+## Files locales desde HUE
+

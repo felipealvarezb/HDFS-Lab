@@ -55,5 +55,13 @@ Primero ingresamos a HUE, creamos una cuenta que tiene de username: hadoop. Una 
 
 ## Lab 1 
 
-Empezamos por crear un usuario en hadoop desde la consola de comandos
+Empezamos por crear un usuario en hadoop desde la consola de comandos de la siguiente manera. 
+(Recordatorio) Es importante acceder a permisos especiales con sudo su
+
+![](img/user.png)
+
+Después de eso accedemos al usuario y con sudo su falvarezb que fue el usuario que creamos anteriormente y creamos el directorio de datasets con las carpetas de los archivos y los datos que vamos a guardar
+
+![](img/folders.png)
+
 

@@ -69,3 +69,4 @@ ingresamos los datos en s3 y queda de la siguiente manera
 
 
 ## Bucket publico
+![](img/bucketpublic.png)

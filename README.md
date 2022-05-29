@@ -51,3 +51,9 @@ Primero ingresamos a HUE, creamos una cuenta que tiene de username: hadoop. Una 
 ## Files locales desde HUE
 
 ![](img/fileslocal.png)
+
+
+## Lab 1 
+
+Empezamos por crear un usuario en hadoop desde la consola de comandos
+

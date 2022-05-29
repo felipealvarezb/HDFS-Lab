@@ -67,3 +67,5 @@ Después de eso accedemos al usuario y con sudo su falvarezb que fue el usuario 
 ingresamos los datos en s3 y queda de la siguiente manera 
 ![](img/s33.png)
 
+
+## Bucket publico

@@ -65,5 +65,5 @@ Después de eso accedemos al usuario y con sudo su falvarezb que fue el usuario 
 ![](img/folders.png)
 
 ingresamos los datos en s3 y queda de la siguiente manera 
-![](img/s3.png)
+![](img/s33.png)
 

@@ -50,3 +50,4 @@ Primero ingresamos a HUE, creamos una cuenta que tiene de username: hadoop. Una 
 
 ## Files locales desde HUE
 
+![](img/fileslocal.png)

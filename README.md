@@ -29,3 +29,13 @@ Si se termina el cluster, simplemente clonamos el cluster que se terminó y se l
 El bucket que hemos creado en el apartado de s3 de aws llamado 'bookstorefalvarezb'
 
 ![](img/bucket.png)
+
+## HUE
+![](img/hue.png)
+
+## Jupyter 
+![](img/jupyter.png)
+
+## Zeppelin
+![](img/zeppelin.png)
+

@@ -39,3 +39,5 @@ El bucket que hemos creado en el apartado de s3 de aws llamado 'bookstorefalvare
 ## Zeppelin
 ![](img/zeppelin.png)
 
+## Comprobación de conexión SSH
+![](img/clusterssh.png)
